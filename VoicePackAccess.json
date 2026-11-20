@@ -6,12 +6,12 @@
                   {
                       "id":  "game_default/packs_voice/Choicer The Voicer Tutorial Pack",
                       "available":  true,
-                      "rewarded":  false
+                      "rewarded": true
                   },
                   {
                       "id":  "game_default/packs_voice_unpacked/Glass Half - Art Critics",
                       "available":  true,
-                      "rewarded":  false
+                      "rewarded":  true
                   },
                   {
                       "id":  "game_default/packs_voice_unpacked/Pepper \u0026 Carrot - Potion Demonstration",
@@ -70,7 +70,7 @@
                   },
                   {
                       "id":  "game_default/packs_dub/family-picnic-1",
-                      "available":  true,
+                      "available":  false,
                       "rewarded":  false
                   },
                   {
