@@ -1,0 +1,167 @@
+{
+    "version":  1,
+    "defaultAvailable":  false,
+    "defaultRewarded":  false,
+    "packs":  [
+                  {
+                      "id":  "game_default/packs_voice/Choicer The Voicer Tutorial Pack",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_voice_unpacked/Glass Half - Art Critics",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_voice_unpacked/Pepper \u0026 Carrot - Potion Demonstration",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_voice_unpacked/Sintel - Searching for a Dragon 2",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/at-the-park",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/can-i-tell-you-a-joke",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-2",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-3",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-4",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-5",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-6",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-7",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/coco-the-caterpillar-8",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-1",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-10",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-2",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-3",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-4",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-5",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-6",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-7",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-8",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/family-picnic-9",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-1",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-2",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-3",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-4",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-5",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-6",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-7",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-8",
+                      "available":  true,
+                      "rewarded":  false
+                  },
+                  {
+                      "id":  "game_default/packs_dub/the-otter-who-couldn-t-swim-9",
+                      "available":  true,
+                      "rewarded":  false
+                  }
+              ]
+}
